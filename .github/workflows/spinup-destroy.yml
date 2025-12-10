@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: olc02@wortellsmartlearning.onmicrosoft.com-mb-app
+  AZURE_WEBAPP_NAME: maximb91-mb-app
 
 jobs:
   setup-up-azure-resources:
