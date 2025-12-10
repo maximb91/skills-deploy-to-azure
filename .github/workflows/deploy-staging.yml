@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: olc02@wortellsmartlearning.onmicrosoft.com-azure-ttt
-  AZURE_WEBAPP_NAME: olc02@wortellsmartlearning.onmicrosoft.com-ttt-app
+  DOCKER_IMAGE_NAME: maximb91-azure-ttt
+  AZURE_WEBAPP_NAME: maximb91-mb-app
   ###############################################
 
 jobs:
