@@ -6,13 +6,13 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  AZURE_RESOURCE_GROUP: cd-with-actions
-  AZURE_APP_PLAN: actions-ttt-deployment
+  AZURE_RESOURCE_GROUP: 'olc20251006-02'
+  AZURE_APP_PLAN: actions-mb-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: olc02@wortellsmartlearning.onmicrosoft.com-ttt-app
+  AZURE_WEBAPP_NAME: olc02@wortellsmartlearning.onmicrosoft.com-mb-app
 
 jobs:
   setup-up-azure-resources:
